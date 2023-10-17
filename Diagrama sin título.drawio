@@ -1,9 +1,77 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T00:05:08.682Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.0.4" etag="keCxUc7Ta3ua_gR0q4lc" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T00:19:38.158Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="IPF_bbv3VTz7FUAZN-iI" version="22.0.4" type="github">
   <diagram name="Página-1" id="R2Oh_hWaJppYizWp7uVG">
-    <mxGraphModel>
+    <mxGraphModel dx="1664" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DB_mITsBhU4QhLW8u7Vj-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DB_mITsBhU4QhLW8u7Vj-4" target="DB_mITsBhU4QhLW8u7Vj-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DB_mITsBhU4QhLW8u7Vj-4" value="Financiación de&amp;nbsp; Kennedy mediante la el instrumento de valorización" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="310" y="30" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DB_mITsBhU4QhLW8u7Vj-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DB_mITsBhU4QhLW8u7Vj-5" target="DB_mITsBhU4QhLW8u7Vj-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DB_mITsBhU4QhLW8u7Vj-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DB_mITsBhU4QhLW8u7Vj-5" target="DB_mITsBhU4QhLW8u7Vj-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DB_mITsBhU4QhLW8u7Vj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DB_mITsBhU4QhLW8u7Vj-5" target="DB_mITsBhU4QhLW8u7Vj-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DB_mITsBhU4QhLW8u7Vj-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DB_mITsBhU4QhLW8u7Vj-5" target="DB_mITsBhU4QhLW8u7Vj-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DB_mITsBhU4QhLW8u7Vj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DB_mITsBhU4QhLW8u7Vj-5" target="DB_mITsBhU4QhLW8u7Vj-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DB_mITsBhU4QhLW8u7Vj-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DB_mITsBhU4QhLW8u7Vj-5" target="DB_mITsBhU4QhLW8u7Vj-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DB_mITsBhU4QhLW8u7Vj-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DB_mITsBhU4QhLW8u7Vj-5" target="DB_mITsBhU4QhLW8u7Vj-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DB_mITsBhU4QhLW8u7Vj-5" value="1) Recopilación de datos de siguientes fuentes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="340" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DB_mITsBhU4QhLW8u7Vj-10" value="MercadoLibre.com" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="570" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DB_mITsBhU4QhLW8u7Vj-14" value="MiTula.com" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="570" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DB_mITsBhU4QhLW8u7Vj-15" value="MetroCuadrado.com" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="570" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DB_mITsBhU4QhLW8u7Vj-16" value="MiFincaRaiz.com" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="570" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DB_mITsBhU4QhLW8u7Vj-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DB_mITsBhU4QhLW8u7Vj-25" target="DB_mITsBhU4QhLW8u7Vj-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DB_mITsBhU4QhLW8u7Vj-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DB_mITsBhU4QhLW8u7Vj-25" target="DB_mITsBhU4QhLW8u7Vj-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DB_mITsBhU4QhLW8u7Vj-25" value="2) Creación de la zonificación homogénea física con los siguientes elementos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="155" width="195" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DB_mITsBhU4QhLW8u7Vj-26" value="&lt;ul&gt;&lt;li&gt;Estado de la vía&lt;/li&gt;&lt;li&gt;Presencia de servicios públicos&lt;/li&gt;&lt;li&gt;Tratamiento urbanístico del predio&lt;/li&gt;&lt;li&gt;Uso destinado a los predios&lt;/li&gt;&lt;li&gt;Uso destinado a las manzanas&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="115" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="DB_mITsBhU4QhLW8u7Vj-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DB_mITsBhU4QhLW8u7Vj-27" target="DB_mITsBhU4QhLW8u7Vj-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DB_mITsBhU4QhLW8u7Vj-27" value="Creación de los clusters con respecto a los precios y la geolocalización de los predios" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="340" y="310" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DB_mITsBhU4QhLW8u7Vj-29" value="Geoespacialización de la base de datos con respecto al barrio Mandalay" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="340" y="460" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DB_mITsBhU4QhLW8u7Vj-32" value="Crear base de datos con respecto a la zonificación homogénea de la zona de todos los predios presentes." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="325" width="195" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
